@@ -28,7 +28,6 @@ public class Video {
     private Integer viewCount;
     private String thumbnailUrl;
     private List<Comment> commentList;
-    private String testVar;
 
 
 
