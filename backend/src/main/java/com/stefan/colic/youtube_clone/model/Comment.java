@@ -10,4 +10,5 @@ public class Comment {
     private String authorId;
     private Integer likeCount;
     private Integer disLikeCount;
+    private String testAAA;
 }
